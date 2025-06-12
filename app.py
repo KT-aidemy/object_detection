@@ -57,4 +57,3 @@ else:
 # 実行方法:
 # pip install streamlit opencv-python ultralytics
 # streamlit run streamlit_video_object_detection.py
-```
